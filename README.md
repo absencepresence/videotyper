@@ -7,4 +7,8 @@ Custom application for Christine Sun Kim's performance [Bounce House](http://www
 
 App made by Taeyoon Choi with [P5.js](http://p5js.org/)
 
+Simply, go to the app [page](http://christinesunkim.com/typer/) and begin typing.
+
+![](https://github.com/absencepresence/videotyper/blob/master/start.jpg?raw=true)
+
 Special thanks to [Kyle McDonald](http://kylemcdonald.net) and [Lauren McCarthy](http://lauren-mccarthy.com) for technical advise and help. 
